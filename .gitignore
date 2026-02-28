@@ -1,0 +1,18 @@
+# Backend
+leavetracker/target/
+leavetracker/*.class
+leavetracker/*.log
+leavetracker/*.jar
+leavetracker/*.war
+leavetracker/.settings/
+leavetracker/.project
+leavetracker/.classpath
+
+# Frontend
+leave-tracker-frontend/node_modules/
+leave-tracker-frontend/build/
+leave-tracker-frontend/.env
+
+# IDE
+.idea/
+*.iml
